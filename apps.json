@@ -1,0 +1,34 @@
+[{
+  "name": "Accesos UC",
+  "platforms": [{
+    "platform": "ios",
+    "repository": "https://github.com/almapp/uc-access-ios",
+    "store": ""
+  }, {
+    "platform": "android",
+    "repository": "https://github.com/almapp/uc-access-android",
+    "store": ""
+  }]
+}, {
+  "name": "Cursos UC",
+  "platforms": [{
+    "platform": "ios",
+    "repository": "https://github.com/almapp/uc-maps-mobile",
+    "store": ""
+  }, {
+    "platform": "android",
+    "repository": "https://github.com/almapp/uc-maps-mobile",
+    "store": "https://play.google.com/store/apps/details?id=com.almapp.uccourses"
+  }]
+}, {
+  "name": "Mapas UC",
+  "platforms": [{
+    "platform": "ios",
+    "repository": "https://github.com/almapp/uc-maps-mobile",
+    "store": "https://itunes.apple.com/us/app/mapas-uc/id1080468856"
+  }, {
+    "platform": "android",
+    "repository": "https://github.com/almapp/uc-maps-mobile",
+    "store": "https://play.google.com/store/apps/details?id=com.almapp.ucmaps"
+  }]
+}]
