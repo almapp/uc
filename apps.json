@@ -1,5 +1,6 @@
 [{
   "name": "Accesos UC",
+  "description": "Ingreso automático a los servicios",
   "platforms": [{
     "platform": "ios",
     "repository": "https://github.com/almapp/uc-access-ios",
@@ -11,6 +12,7 @@
   }]
 }, {
   "name": "Cursos UC",
+  "description": "Cursos, horarios y profesores",
   "platforms": [{
     "platform": "ios",
     "repository": "https://github.com/almapp/uc-maps-mobile",
@@ -22,6 +24,7 @@
   }]
 }, {
   "name": "Mapas UC",
+  "description": "No te vuelvas a perder en la U",
   "platforms": [{
     "platform": "ios",
     "repository": "https://github.com/almapp/uc-maps-mobile",
